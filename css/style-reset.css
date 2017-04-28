@@ -1,0 +1,16 @@
+* {
+margin: 0;
+padding: 0;
+border: 0;
+line-height: 1.4em;
+vertical-align: baseline;
+text-decoration: none;
+outline: 0;
+font-weight: normal;
+color: #000;
+list-style: none;
+}
+header, section, footer, aside, nav, main, article, figure, img, span, i, strong {display: block;}
+.clr{clear:both;}
+body{font-family: Arial;}
+h1, h2, h3 {font-size: 16px;}
